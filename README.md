@@ -42,6 +42,16 @@ Boxicons: Integrating modern icons to enhance the input fields.
 
 Note: The image above demonstrates how the form looks with a background and glassmorphism effect. Replace it with your own image by customizing the background property in the CSS.
 
+⚙️ Getting Started
+
+Step 1: Clone the Repository
+
+git clone https://github.com/MutahirTayyab/Form1.git
+
+Step 2: Open in Browser
+
+Simply open index.html in your browser to see the form in action!
+
 🎨 Customization Options
 
 Background Image: Easily replace the current background with your own by modifying the background property in style.css.
